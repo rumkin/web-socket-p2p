@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/rumkin/web-socket-p2p.git"
   },
+  "engines": {
+    "node": "8.x"
+  },
   "keywords": [
     "p2p",
     "websocket"
