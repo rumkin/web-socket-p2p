@@ -1,0 +1,26 @@
+{
+  "name": "web-sockets-rumkin",
+  "version": "1.0.0",
+  "description": "WebSocket P2P",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rumkin/web-socket-p2p.git"
+  },
+  "keywords": [
+    "p2p",
+    "websocket"
+  ],
+  "author": "rumkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rumkin/web-socket-p2p/issues"
+  },
+  "homepage": "https://github.com/rumkin/web-socket-p2p#readme",
+  "dependencies": {
+    "ws": "3.2.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "WebSocket P2P",
+  "description": "P2P communiication with web socket server",
+  "repository": "https://github.com/rumkin/web-socket-p2p",
+  "logo": null,
+  "keywords": ["p2p", "websocket", "ws", "ring"],
+  "image": "heroku/nodejs"
+}
